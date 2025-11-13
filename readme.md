@@ -1,1 +1,3 @@
 MatplotLib Pyplot
+
+This Python code uses the **Matplotlib** and **NumPy** libraries to plot a straight line between two points on a 2D graph. The `xPoints` array defines the x-coordinates `[0, 10]`, and the `yPoints` array defines the y-coordinates `[0, -12]`. These points represent coordinates (0, 0) and (10, -12). The `plt.plot(xPoints, yPoints)` command draws a straight line connecting these two points, and `plt.show()` displays the resulting figure. The output is a downward-sloping line extending from the origin to the point (10, -12), visually representing the relationship between the given x and y values.
